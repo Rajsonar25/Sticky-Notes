@@ -1,6 +1,6 @@
 # Sticky Notes App
 
-#Project link- https://stickynotesbyraj.netlify.app/
+#Project link- [*Sticky Notes*](https://stickynotesbyraj.netlify.app/)
 ##
 A simple and intuitive sticky notes application built with React and basic DOM manipulation. This app allows users to create, edit, and delete sticky notes for quick note-taking.
 
